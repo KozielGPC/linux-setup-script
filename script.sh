@@ -55,8 +55,9 @@ code --install-extension eamodio.gitlens --force
 code --install-extension dbaeumer.vscode-eslint --force
 code --install-extension esbenp.prettier-vscode --force
 code --install-extension GitHub.github-vscode-theme --force
-code --install extension codeium.codeium
-code --install extension firsttris.vscode-jest-runner
+code --install-extension codeium.codeium --force
+code --install-extension firsttris.vscode-jest-runner --force
+code --install-extension alefragnani.project-manager --force
 
 
 # Git
